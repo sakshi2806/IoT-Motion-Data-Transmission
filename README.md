@@ -2,7 +2,7 @@
 
 This project demonstrates how to use an ESP32 microcontroller to capture motion and velocity data from an MPU9250 sensor via SPI. The data is transmitted to a server via WiFi using HTTP POST requests, where a PHP script on the server receives and stores the data.
 
-## Table of Contents
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
